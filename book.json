@@ -1,0 +1,38 @@
+{
+    "title" : "戒邪淫汇本",
+    "description" : "戒邪淫汇本",
+    "author" : "jxybooks@qq.com",
+    "generator": "site",
+    "language" : "zh-hans",
+    "gitbook" : "3.2.2",
+    "links" : {
+        "sidebar" : {
+        }
+    },
+   "plugins": [
+     "-search",
+     "anchor-navigation-ex",
+     "-lunr",
+	  "-highlight",
+  	"splitter",
+    "expandable-chapters"
+    ],
+    "pluginsConfig": {
+           "sharing": {
+            "weibo": true,
+            "facebook": true,
+            "twitter": true,
+            "all": [
+                "facebook", "google", "twitter",
+                "weibo", "instapaper"
+            ]
+        },
+      "anchor-navigation-ex":{
+        "mode": "float"
+      },
+      "theme-default": {
+           "showLevel": true
+      },
+      "expandable-chapters":{}
+    }
+}
