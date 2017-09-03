@@ -1,5 +1,5 @@
 #!/bin/bash
-cd /root/jxyBooks
+cd /root/jxybooks
 git pull oschina master
 gitbook build . ./content
 git add -A

@@ -3,7 +3,7 @@
     * [http://jxybooks.oschina.io/content/](http://jxybooks.oschina.io/content/)
     * [http://jxybooks.coding.me/jxybooks/content/](http://jxybooks.coding.me/jxybooks/content/)
     * [https://jxybooks.gitbooks.io/jxybooks/content/](https://jxybooks.gitbooks.io/jxybooks/content/)
-    * [https://jxybooks.github.io/jxyBooks/content/](https://jxybooks.github.io/jxyBooks/content/)
+    * [https://jxybooks.github.io/jxybooks/content/](https://jxybooks.github.io/jxybooks/content/)
 * 手机操作:直接拉到页面顶端再向下拉一下，即可看到最上面出现工具栏，最左边的三条横杠的图标即是目录。对于有子目录的目录，点击选中目录时会展开，要点击第二次才能进行页面内容跳转。在页面上的锚点是页面内目录导航，手机端选择页面内目录没有反应时，需要刷新一下页面才会进行跳转。
 
 ## 简介
