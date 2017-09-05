@@ -3,7 +3,7 @@
     * [http://jxybooks.oschina.io/content/](http://jxybooks.oschina.io/content/)
     * [http://jxybooks.coding.me/jxybooks/content/](http://jxybooks.coding.me/jxybooks/content/)
     * [https://jxybooks.gitbooks.io/jxybooks/content/](https://jxybooks.gitbooks.io/jxybooks/content/)
-    * [https://jxybooks.github.io/jxybooks/content/](https://jxybooks.github.io/jxybooks/content/)
+    * [https://jxybooks.github.io/jxybooks/content/ ](https://jxybooks.github.io/jxybooks/content/)      
 * 手机操作:直接拉到页面顶端再向下拉一下，即可看到最上面出现工具栏，最左边的三条横杠的图标即是目录。对于有子目录的目录，点击选中目录时会展开，要点击第二次才能进行页面内容跳转。在页面上的锚点是页面内目录导航，手机端选择页面内目录没有反应时，需要刷新一下页面才会进行跳转。
 
 ## 简介
@@ -20,7 +20,7 @@
 　　有鉴于此，末学发心编纂这本《戒邪淫汇本》，收录了大量现代人们的鲜活实例，这许多人现身说法，以他们纵欲时的种种不幸遭遇，及戒欲后的种种好处，向人们昭示纵欲的确极其有害，不可不慎，不可不警惕！如果能节制欲望，努力修身养性，自然能获得长寿健康的幸福人生。此外，本光盘还收录了戒杀、因果轮回和德育启蒙的相关书籍，其目的都在于通过翔实的事例说明个中的因果道理，使人人远祸近福，获得一个幸福美满的人生！
 
 ## 源码及电子书下载
-* 戒邪淫汇本pdf,mobi,epub下载地址[https://www.gitbook.com/book/jxybooks/jxybooks/details](https://www.gitbook.com/book/jxybooks/jxybooks/details)
+* 戒邪淫汇本pdf,mobi,epub下载地址[暂无](暂无)
 * 戒邪淫汇本源码地址，可将其中的content目录下载，部署至任一Web服务器即可
     * [https://github.com/JXYBooks/jxyBooks](https://github.com/JXYBooks/jxyBooks)
     * [http://git.oschina.net/jxybooks/jxybooks](http://git.oschina.net/jxybooks/jxybooks)
